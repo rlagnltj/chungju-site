@@ -13,6 +13,7 @@
 
 # 개발환경
 - 'html'
+- 'css'
 
 # 주요 기능
 #### 영상 보기 <"https://www.youtube.com/watch?v=DEIc8C1p4dI&t=1s">
