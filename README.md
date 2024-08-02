@@ -1,1 +1,1 @@
-# chungju-site
+# Chungju
